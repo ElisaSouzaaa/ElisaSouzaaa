@@ -4,7 +4,6 @@
 - 🔭 Atualmente estudante de Análise e Desenvolvimento de Sistemas na União das Américas Descomplica
 - 🌱 Certificada Desenvolvedora FullStack com foco em Java e React pela Generation Brasil
 - 🌱 Certificada Desenvolvedora FullStack com foco em Java pela Ada Tech
-- 🔜 Futura aluna da Escola da Nuvem para o curso Fundamentos AWS
 
 <div>
   <a hrf="https://github.com/ElisaSouzaaa">
