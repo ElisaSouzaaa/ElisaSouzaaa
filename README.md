@@ -1,9 +1,11 @@
 ### Olá, pessoa! Eu sou a Elisa Souza ✨
 
 
-- 🔭 Atualmente estudante de Análise e Desenvolvimento de Sistemas na União das Américas Descomplica
+- 🔭 Atualmente estudante de Engenharia de Software na Universidade Estácio de Sá
 - 🌱 Certificada Desenvolvedora FullStack com foco em Java e React pela Generation Brasil
 - 🌱 Certificada Desenvolvedora FullStack com foco em Java pela Ada Tech
+- 🌱 Certificada Fundamentos AWS - Re/Start pela Escola da Nuvem
+- 🔜 Me preparando para tirar a certificação AWS Cloud Practitioner
 
 <div>
   <a hrf="https://github.com/ElisaSouzaaa">
@@ -25,6 +27,7 @@
   <img align="center" alt="Tailwind" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Insominia" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+  <img align="center" alt="AWS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
   
