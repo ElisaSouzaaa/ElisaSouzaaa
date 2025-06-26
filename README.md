@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estudante de Engenharia de Software na Universidade Estácio de Sá
 - 🌱 Certificada Desenvolvedora FullStack com foco em Java e React pela Generation Brasil
-- 🌱 Certificada Desenvolvedora FullStack com foco em Java pela Ada Tech
+- 🌱 Certificada Desenvolvedora com foco em Java pela Ada Tech
 - 🌱 Certificada Fundamentos AWS - Re/Start pela Escola da Nuvem
-- 🔜 Me preparando para tirar a certificação AWS Cloud Practitioner
+- 🌱 Certificada AWS Cloud Practitioner
 
 <div>
   <a hrf="https://github.com/ElisaSouzaaa">
